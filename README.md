@@ -60,7 +60,7 @@ These insights can help businesses understand sales performance and support data
 
 ## Author
 
-**Wisdom Osayande**
+**NANA FATIMA USMAN**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Excel
 
